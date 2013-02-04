@@ -2,7 +2,7 @@
 /*
 Plugin Name: Upcoming Events widget for Time.ly
 Description: Display upcoming events from time.ly All-In-One Event Calendar plugin as a widget
-Author: Michael W. Delaney
+Author: FoolsRun
 Version: 1
 */
  
